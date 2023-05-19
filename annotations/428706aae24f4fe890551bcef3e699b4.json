@@ -1,0 +1,72 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Paste down end paper",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>Paste down end paper</strong></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/102880407888456311969",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-05-19T11:57:59",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1684497479111",
+    "dcterms:modified" : "2023-05-19T11:57:59",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://leobazzurro.github.io/ULTIMOREALFLAGBOOK/manifests/manifestlast.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=754,613,1366,2118"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M753.71042,612.63329l46.7659,2099.7889l1300.09202,18.70636l18.70636,-2104.46549z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_763c105b-5e84-46da-8edf-cddff04e2219\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://e4cd10e0-c765-49fe-869c-fc83b85b58cc"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Three Flags per \"page\"",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>Three Flags per \"page\"</strong></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/102880407888456311969",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-05-19T11:59:01",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1684497541557",
+    "dcterms:modified" : "2023-05-19T11:59:16",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://leobazzurro.github.io/ULTIMOREALFLAGBOOK/manifests/manifestlast.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2141,150,457,3216"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2152.01083,668.75237l425.56969,-519.10149l21.30794,3215.85809l-457.45516,-623.80249z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_9eda5ad8-75a9-49a0-9e43-0d02e822636a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"22.68373\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://e4cd10e0-c765-49fe-869c-fc83b85b58cc"
+    } ]
+  } ],
+  "@id" : "https://leobazzurro.github.io/ULTIMOREALFLAGBOOK/annotations/428706aae24f4fe890551bcef3e699b4.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
