@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://leobazzurro.github.io/ULTIMOREALFLAGBOOK/annotations/0dc0dd42979733d1cbda5a17afbb1ce6.json" ],
+  "@id" : "https://leobazzurro.github.io/ULTIMOREALFLAGBOOK/annotations/collection.json",
+  "label" : "All annotations loaded in leobazzurro/ULTIMOREALFLAGBOOK project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
