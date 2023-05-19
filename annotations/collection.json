@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://leobazzurro.github.io/ULTIMOREALFLAGBOOK/annotations/0dc0dd42979733d1cbda5a17afbb1ce6.json", "https://leobazzurro.github.io/ULTIMOREALFLAGBOOK/annotations/00e765fcb5f9c05cf45b6b1f84950111.json", "https://leobazzurro.github.io/ULTIMOREALFLAGBOOK/annotations/8eae0216f53df8374988dbd2d7861cf1.json" ],
+  "otherContent" : [ "https://leobazzurro.github.io/ULTIMOREALFLAGBOOK/annotations/0dc0dd42979733d1cbda5a17afbb1ce6.json", "https://leobazzurro.github.io/ULTIMOREALFLAGBOOK/annotations/00e765fcb5f9c05cf45b6b1f84950111.json", "https://leobazzurro.github.io/ULTIMOREALFLAGBOOK/annotations/8eae0216f53df8374988dbd2d7861cf1.json", "https://leobazzurro.github.io/ULTIMOREALFLAGBOOK/annotations/428706aae24f4fe890551bcef3e699b4.json" ],
   "@id" : "https://leobazzurro.github.io/ULTIMOREALFLAGBOOK/annotations/collection.json",
   "label" : "All annotations loaded in leobazzurro/ULTIMOREALFLAGBOOK project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
