@@ -13,6 +13,7 @@
   "sequences" : [ {
     "@id" : "http://dd38501f-56c0-4eda-ac88-c49a9e438cfc",
     "@type" : "sc:Sequence",
+    "viewingHint": "individuals",
     "label" : [ {
       "@value" : "Normal Sequence",
       "@language" : "en"
@@ -20,7 +21,7 @@
     "canvases" : [ {
       "@id" : "http://36ccaf8a-9e14-4a93-93e4-32a918c633e9",
       "@type" : "sc:Canvas",
-      "label" : "Book Cover (Spine)",
+      "label" : "Book Cover & Spine",
       "height" : 3457,
       "width" : 4608,
       "images" : [ {
