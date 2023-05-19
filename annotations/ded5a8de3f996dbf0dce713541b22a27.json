@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Star shape made by open spine",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>Star shape made by open spine</strong></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/102880407888456311969",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-05-19T12:18:32",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1684498712314",
+    "dcterms:modified" : "2023-05-19T12:18:32",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://leobazzurro.github.io/ULTIMOREALFLAGBOOK/manifests/manifestlast.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1801,2106,1393,1399"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2004.81563,2310.62201c128.6338,-117.48323 310.09261,-204.96901 492.43077,-204.86449v0v0c182.33816,0.10452 341.18528,81.94606 492.43077,204.86449c151.24549,122.91843 210.03269,310.22239 203.9715,494.58663c-6.06119,184.36425 -76.97077,365.78878 -203.9715,494.58663c-127.00073,128.79785 -310.09261,204.96901 -492.43077,204.86449c-182.33816,-0.10452 -363.92259,-76.48473 -492.43077,-204.86449c-128.50818,-128.37976 -203.9401,-308.75906 -203.9715,-494.58663c-0.03141,-185.82757 75.3377,-377.1034 203.9715,-494.58663z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_737a7299-a9aa-4005-a345-806c90b3450e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b564d5e2-e967-47ff-9345-0d73dbb3e64d"
+    } ]
+  } ],
+  "@id" : "https://leobazzurro.github.io/ULTIMOREALFLAGBOOK/annotations/ded5a8de3f996dbf0dce713541b22a27.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
