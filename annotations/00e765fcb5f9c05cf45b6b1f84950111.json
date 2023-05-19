@@ -1,0 +1,105 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Outer rows of Flags going backwards",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>Outer rows of Flags going backwards</strong></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/102880407888456311969",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-05-19T12:02:33",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1684497753736",
+    "dcterms:modified" : "2023-05-19T12:22:46",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://leobazzurro.github.io/ULTIMOREALFLAGBOOK/manifests/manifestlast.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=384,262,967,2513"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M690.07172,261.94587l-305.60352,1315.96617l318.07713,1197.46685l648.62788,-24.94723l-31.18403,-2469.77537z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_c5bc0a5b-f29a-4bf9-b848-63aaded5738a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"27.2185\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ad471b6e-9a59-4d41-a089-cb8ed356d829"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Outer rows of Flags going backwards",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>Outer rows of Flags going backwards</strong></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/102880407888456311969",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-05-19T12:03:15",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1684497795538",
+    "dcterms:modified" : "2023-05-19T12:22:38",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://leobazzurro.github.io/ULTIMOREALFLAGBOOK/manifests/manifestlast.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2037,262,942,2520"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2037.22192,268.18268l18.71042,2482.24899l654.86468,31.18403l268.18268,-1203.70365l-261.94587,-1315.96617l-679.81191,6.23681z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_db568983-e852-434c-9b8e-d19cd6fd38af\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"27.2185\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ad471b6e-9a59-4d41-a089-cb8ed356d829"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Flags in the middle row going forwards",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>Flags in the middle row going forwards</strong></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/102880407888456311969",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-05-19T12:04:17",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1684497857550",
+    "dcterms:modified" : "2023-05-19T12:23:15",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://leobazzurro.github.io/ULTIMOREALFLAGBOOK/manifests/manifestlast.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1349,852,682,1917"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1349.17321,852.44249h340.90595v0h340.90595v958.3498v958.3498h-340.90595h-340.90595v-958.3498z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_040396a4-38e1-4fbe-9905-35f4706fe6f4\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"2.26821\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ad471b6e-9a59-4d41-a089-cb8ed356d829"
+    } ]
+  } ],
+  "@id" : "https://leobazzurro.github.io/ULTIMOREALFLAGBOOK/annotations/00e765fcb5f9c05cf45b6b1f84950111.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
