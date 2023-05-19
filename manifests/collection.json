@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://leobazzurro.github.io/ULTIMOREALFLAGBOOK/manifests/manifestlast.json",
     "label" : " Flag Book"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://leobazzurro.github.io/ULTIMOREALFLAGBOOK/manifests/manifestlast2.0.json",
+    "label" : " My Flag Book"
   } ]
 }
