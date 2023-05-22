@@ -13,7 +13,7 @@
   "sequences" : [ {
     "@id" : "http://dd38501f-56c0-4eda-ac88-c49a9e438cfc",
     "@type" : "sc:Sequence",
-    "viewingHint": "individuals",
+    "viewingHint" : "individuals",
     "label" : [ {
       "@value" : "Normal Sequence",
       "@language" : "en"
@@ -43,6 +43,11 @@
         },
         "on" : "http://36ccaf8a-9e14-4a93-93e4-32a918c633e9"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://leobazzurro.github.io/ULTIMOREALFLAGBOOK/annotations/0dc0dd42979733d1cbda5a17afbb1ce6.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://e4cd10e0-c765-49fe-869c-fc83b85b58cc",
@@ -68,6 +73,11 @@
           "width" : 4608
         },
         "on" : "http://e4cd10e0-c765-49fe-869c-fc83b85b58cc"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://leobazzurro.github.io/ULTIMOREALFLAGBOOK/annotations/00e765fcb5f9c05cf45b6b1f84950111.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My annotations"
       } ],
       "related" : ""
     }, {
@@ -95,6 +105,11 @@
         },
         "on" : "http://ad471b6e-9a59-4d41-a089-cb8ed356d829"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://leobazzurro.github.io/ULTIMOREALFLAGBOOK/annotations/8eae0216f53df8374988dbd2d7861cf1.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://4063b43b-a16e-4928-b93b-f9323fc4b2ff",
@@ -120,6 +135,11 @@
           "width" : 4608
         },
         "on" : "http://4063b43b-a16e-4928-b93b-f9323fc4b2ff"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://leobazzurro.github.io/ULTIMOREALFLAGBOOK/annotations/428706aae24f4fe890551bcef3e699b4.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My annotations"
       } ],
       "related" : ""
     }, {
@@ -147,6 +167,11 @@
         },
         "on" : "http://2ee69be5-d382-4583-87ac-c18be14301cb"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://leobazzurro.github.io/ULTIMOREALFLAGBOOK/annotations/d7ea3b2820ec63b68a2ed9a85fcc65a5.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://b564d5e2-e967-47ff-9345-0d73dbb3e64d",
@@ -172,6 +197,11 @@
           "width" : 4928
         },
         "on" : "http://b564d5e2-e967-47ff-9345-0d73dbb3e64d"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://leobazzurro.github.io/ULTIMOREALFLAGBOOK/annotations/ded5a8de3f996dbf0dce713541b22a27.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My annotations"
       } ],
       "related" : ""
     } ]
